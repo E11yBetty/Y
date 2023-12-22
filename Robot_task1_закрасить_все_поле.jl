@@ -1,5 +1,5 @@
 using HorizonSideRobots
-robot = Robot("starts/task1.sit",animate = true)
+robot = Robot("task1.sit",animate = true)
 
 function all_mark!(robot::Robot)
     num_nord = topleft_num!(robot,Nord)
