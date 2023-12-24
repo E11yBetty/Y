@@ -1,3 +1,4 @@
+#рекурс функц, перемещ робота до упора в заданном направлении.
 using HorizonSideRobots
 rob = Robot("task19.sit", animate = true)
 
