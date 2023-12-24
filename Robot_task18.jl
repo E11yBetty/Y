@@ -1,3 +1,4 @@
+#предыдущая+прост перегородки конечн длины
 using HorizonSideRobots
 rob = Robot("task18.sit", animate = true) 
 
