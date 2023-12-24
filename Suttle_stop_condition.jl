@@ -2,7 +2,7 @@ using HorizonSideRobots
 include("edge_robot.jl")
 HSR = HorizonSideRobots
 
-robot = Robot("untitled.sit",animate=true)
+robot = Robot("taks.sit",animate=true)
 robot = EdgeRobot{Robot}(robot, Nord)
 
 function shuttle!(stop::Function, robot::EdgeRobot)
