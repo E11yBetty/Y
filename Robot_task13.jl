@@ -1,3 +1,4 @@
+#9 задача с использованием обощенной функции
 using HorizonSideRobots
 r = Robot("task13.sit", animate=true) 
 
