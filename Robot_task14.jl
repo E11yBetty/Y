@@ -1,3 +1,4 @@
+#9+прост внутренние перегородки
 using HorizonSideRobots
 rob = Robot("task14.sit", animate = true) 
 
