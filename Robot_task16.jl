@@ -1,3 +1,4 @@
+#7+обобщ функц
 using HorizonSideRobots
 rob = Robot("task16.sit", animate = true)
 
